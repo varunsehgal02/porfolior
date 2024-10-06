@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  text-decoration: none;
+}
+
+.img {
+  background-image: url("../photo/pic-cHPmKvC3w-transformed.jpeg");
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border: 0.1px solid black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 40px 0px 5px 42px;
+}
+
+.box1 {
+  float: left;
+  border: #e1e4e8 1px solid;
+  height: 812px;
+  width: 350px;
+  background-color: #fff;
+}
+
+.box-text {
+  display: inline-block;
+  margin-left: 42px;
+  height: 230px;
+  width: 280px;
+}
+
+.name {
+  font-weight: 620;
+  font-size: 30px;
+  height: 40px;
+  width: 279px;
+  margin-bottom: 5px;
+}
+
+.job {
+  font-weight: 350;
+}
+
+.text-box1 {
+  margin-top: 22px;
+}
+
+.git-logo {
+  background-image: url("../photo/git.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: 21px;
+  width: 21px;
+}
+
+a {
+  display: inline-block;
+  border: 50px;
+  margin-left: 5px;
+  font-size: 15px;
+  color: #6d72d6;
+  position: relative;
+  bottom: 4px;
+}
+
+.collage {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.collage-logo {
+  background-image: url("../photo/collage.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: 21px;
+  width: 21px;
+  position: relative;
+  bottom: 5px;
+  margin-right: 8px;
+}
+
+.hire {
+  border-radius: 5px;
+  background-color: #28a745;
+  padding: 5px 10px;
+  color: white;
+  font-size: 14px;
+  margin-top: 20px;
+  width: 125px;
+}
+
+.text-col {
+  display: inline-block;
+  margin-top: 16px;
+}/*# sourceMappingURL=box-l.css.map */
