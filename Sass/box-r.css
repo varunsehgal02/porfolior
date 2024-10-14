@@ -254,6 +254,10 @@ body {
   bottom: 148px;
 }
 
+.space121 {
+  padding-left: 15px;
+}
+
 .box-r1:hover > .skills-box {
   z-index: 9009;
   display: block;
